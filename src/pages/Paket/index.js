@@ -42,10 +42,6 @@ const Paket = () => {
     }
   };
 
-  useEffect(() => {
-    filterItem("wedding");
-  }, []);
-
   return (
     <div className={`${location.pathname !== "/" && "pt-16"}`}>
       <div className="py-16 parent ">
