@@ -137,8 +137,6 @@ const Items = [
     description:
       "Domain .com / .id / .co.id \n SSL Certificate \n Kapasitas 40GB (Private Hosting) \n 30+ Email Profesional \n Request Desain Website \n 20+ Halaman Website \n Full Akses Admin & cPanel \n 5x Revisi Desain \n Otentikasi social media (Facebook & Gmail Login Register) \n Sales Popup \n Notifikasi (Email/SMS/Whatsapp) \n Progressive Web App (Aplikasi Mobile) \n Gratis Video Tutorial & Pelatihan \n ptimasi SEO on Page, Integrasi Google Webmaster, Google Analytics, & Facebook Pixel \n Gratis Konsultasi Optimasi & Digital Marketing \n Garansi Seumur Hidup*",
     category: "companyprofile",
-    price: "CALL US",
-    diskon: "x.xxxK",
   },
 ];
 
