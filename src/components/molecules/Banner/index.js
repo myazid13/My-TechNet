@@ -13,9 +13,7 @@ const Banner = () => {
         <h1 className="mb-0 text-4xl font-bold">My-TechNet</h1>
         <h2 className="my-6 text-2xl font-bold text-primary">Digital & Kreativitas Kami Solusi Masalah Anda!</h2>
         {/* </div> */}
-        <p className="max-w-md mb-10 font-medium text-accent">
-          My-TechNet adalah penyedia layanan jasa pembuatan Website & Layanan servis laptop sesuai kebutuhan anda dengan harga mahasiswa kualitas mewah.
-        </p>
+        <p className="max-w-md mb-10 font-medium text-accent">My-TechNet adalah penyedia layanan jasa pembuatan Website & Layanan servis laptop sesuai kebutuhan anda dengan harga mahasiswa kualitas mewah.</p>
 
         <div className="flex items-center mb-20">
           <a href="https://wa.me/6285804552821" target="blank">
@@ -26,7 +24,7 @@ const Banner = () => {
               </span>
             </button>
           </a>
-          <Link to="/paket" className="ml-4">
+          <Link to="/404" className="ml-4">
             <SecondaryBtn>
               <span className="text-button-mobile ">Lihat Layanan</span>
               <span>
