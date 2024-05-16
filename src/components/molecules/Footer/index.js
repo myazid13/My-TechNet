@@ -37,16 +37,16 @@ const Footer = () => {
             <Link to="/" className="link link-hover hover:text-primary text-accent mr-4">
               <span>Beranda</span>
             </Link>
-            <Link to="/tentang" className="link link-hover hover:text-primary text-accent mr-4">
+            <Link to="#" className="link link-hover hover:text-primary text-accent mr-4">
               <span>Tentang</span>
             </Link>
-            <Link to="/layanan" className="link link-hover hover:text-primary text-accent mr-4">
+            <Link to="#" className="link link-hover hover:text-primary text-accent mr-4">
               <span>Layanan</span>
             </Link>
             <Link to="/kontak" className="link link-hover hover:text-primary text-accent mr-4">
               <span>Kontak</span>
             </Link>
-            <Link to="/blog" className="link link-hover hover:text-primary text-accent">
+            <Link to="#" className="link link-hover hover:text-primary text-accent">
               <span>Blog</span>
             </Link>
           </div>
