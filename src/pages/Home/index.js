@@ -1,6 +1,5 @@
 import React from "react";
-import { Banner, Service, Testimonial, Informasi } from "../../components";
-import Paket from "../Paket";
+import { Banner, Service, Testimonial } from "../../components";
 import Kontak from "../Kontak";
 
 const Home = () => {
@@ -8,9 +7,7 @@ const Home = () => {
     <div className="pt-16">
       <Banner />
       <Service />
-      {/* <Paket /> */}
       <Testimonial />
-      {/* <Informasi /> */}
       <Kontak />
     </div>
   );
