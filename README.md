@@ -1,1 +1,1 @@
-My-TechNet
+MyTechNet
