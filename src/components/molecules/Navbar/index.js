@@ -16,7 +16,7 @@ export default function Navbar() {
   const navLinks = [
     { title: "Beranda", link: "/" },
     // { title: "Tentang", link: "/tentang" },
-    // { title: "Layanan", link: "/paket" },
+    { title: "Layanan", link: "/paket" },
     { title: "Kontak", link: "/kontak" },
     // { title: "Blog", link: "/blog" },
   ];
