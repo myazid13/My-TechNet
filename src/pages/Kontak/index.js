@@ -66,7 +66,7 @@ const Kontak = () => {
             </div>
             <input className="input-field" type="text" name="subject" id="subject" placeholder="Subjek" required />
             <textarea className="input-field" name="message" id="message" cols="30" rows="5" placeholder="Pesan" required></textarea>
-            <button type="submit" value="Send Message" className="primary-button">
+            <button type="submit" value="Send Message" className="primary-button" style={{ backgroundColor: "#43A8EB" }}>
               <span>Kirim</span>
               <span>
                 <MdSend />

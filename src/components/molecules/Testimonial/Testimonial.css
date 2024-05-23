@@ -15,10 +15,10 @@
     height: 2px !important;
     padding: 0;
     border-radius: 100%;
-    border: 2px solid #1500ff !important;
+    border: 2px solid #43A8EB !important;
     text-indent: -9999px;
 }
 
 .slick-dots li.slick-active button {
-    background-color: #1500ff;
+    background-color: #43A8EB;
 }

@@ -10,15 +10,17 @@ const Banner = () => {
   return (
     <div className="parent min-h-[100vh] flex flex-col-reverse lg:flex-row items-center justify-between">
       <motion.div initial={{ x: "-100vw" }} animate={{ x: 0 }} transition={{ duration: 1 }}>
-        <h1 className="mb-0 text-4xl font-bold">My-TechNet</h1>
-        <h2 className="my-6 text-2xl font-bold text-primary">Digital & Kreativitas Kami Solusi Masalah Anda!</h2>
+        <h1 className="mb-0 text-5xl font-bold">My-TechNet</h1>
+        <h2 className="my-6 text-3xl font-bold text-primary">Digital & Kreativitas Kami Solusi Masalah Anda!</h2>
         {/* </div> */}
         <p className="max-w-md mb-10 font-medium text-accent">My-TechNet adalah penyedia layanan jasa pembuatan Website & Layanan servis laptop sesuai kebutuhan anda dengan harga mahasiswa kualitas mewah.</p>
 
         <div className="flex items-center mb-20">
           <a href="https://wa.me/6285804552821" target="blank">
-            <button className="primary-button">
-              <span className="text-button-mobile">Konsultasi Gratis</span>
+            <button style={{ backgroundColor: "#43A8EB", padding: "10px 20px", border: "none", display: "flex", alignItems: "center", justifyContent: "center" }} className="primary-button">
+              <span style={{ fontSize: "1.20rem", lineHeight: "1.20rem", whiteSpace: "nowrap" }} className="text-xl text-button-mobile">
+                Konsultasi Gratis
+              </span>
               <span>
                 <FaAngleRight />
               </span>
