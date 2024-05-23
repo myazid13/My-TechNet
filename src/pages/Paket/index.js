@@ -50,7 +50,7 @@ const Paket = () => {
           <div className="mb-6">
             <h3 className="text-center text-accent">Layanan Terbatas !</h3>
             <h1 className="text-4xl font-semibold text-center">
-             Daftar Harga <span className="text-primary">Tahun 2024</span>
+              Daftar Harga <span className="text-primary">Tahun 2024</span>
             </h1>
             <BottomLine />
             <Countdown />
@@ -149,7 +149,7 @@ const Paket = () => {
                   <small className="p-1 text-base text-gray-400 line-through">{item.diskon}</small>
                 </div>
                 <span className="flex justify-center mb-5">
-                  <a href="https://wa.me/6282125664554" target="blank">
+                  <a href="https://wa.me/6285804552821" target="blank">
                     <button className="flex items-center gap-3 text-black duration-500 bg-transparent border-2 btn border-primary hover:bg-primary hover:border-transparent hover:text-white">
                       <FaWhatsapp className="text-2xl" />
                       <span className="text-button-mobile">Info Lebih Lanjut</span>
