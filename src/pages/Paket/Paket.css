@@ -1,16 +1,16 @@
 .active-btn {
-    color: #1500ff;
-    background-color: transparent;
+  color: #43a8eb;
+  background-color: transparent;
 }
 
 .paket-featured {
-    font-size: 15px;
-    color: #ff0000;
-    animation: blink 1s ease-in-out infinite;
+  font-size: 15px;
+  color: #ff0000;
+  animation: blink 1s ease-in-out infinite;
 }
 
 @keyframes blink {
-    50% {
-        opacity: 0.5;
-    }
+  50% {
+    opacity: 0.5;
+  }
 }
